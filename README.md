@@ -1,3 +1,5 @@
+
+[![Codemagic build status](https://api.codemagic.io/apps/5ed7e8de40a14c000f09657d/5ed7e8de40a14c000f09657c/status_badge.svg)](https://codemagic.io/apps/5ed7e8de40a14c000f09657d/5ed7e8de40a14c000f09657c/latest_build)
 # camerabox
 
 A new Flutter project.
